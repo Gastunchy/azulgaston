@@ -1,1 +1,1 @@
-FROM cptactionhank/atlassian-bamboo:latest
+FROM nginx
