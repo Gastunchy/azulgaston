@@ -1,1 +1,1 @@
-FROM pengbai/docker-supermario
+FROM nginx
